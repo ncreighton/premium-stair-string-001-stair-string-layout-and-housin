@@ -1,0 +1,2 @@
+# premium-stair-string-001-stair-string-layout-and-housin
+Spending hours hand-calculating stair string layouts and housing dimensions? This Notion template eliminates the guesswork and gets your measurements pixel-perfect in minutes.  The Stair String Layout and Housing Calculator automates the complex math behind stair construction, transforming tedious manual calculations into a simple visual workflow.
